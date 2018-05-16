@@ -1,4 +1,5 @@
 apply plugin: 'com.android.application'
+apply plugin: 'net.zhuoweizhang.swiftandroid'
 
 android {
     compileSdkVersion 27
