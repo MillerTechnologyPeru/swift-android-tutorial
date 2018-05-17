@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CJavaVM",
+        "repositoryURL": "https://github.com/SwiftJava/CJavaVM.git",
+        "state": {
+          "branch": null,
+          "revision": "6240b2a563f02d98a162d4dce856b6c9a7196c90",
+          "version": "1.1.4"
+        }
+      },
+      {
+        "package": "java_swift",
+        "repositoryURL": "https://github.com/SwiftJava/java_swift.git",
+        "state": {
+          "branch": null,
+          "revision": "b898d1e2a3440e4d8549ef2840f9f0e97c6289de",
+          "version": "2.3.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
