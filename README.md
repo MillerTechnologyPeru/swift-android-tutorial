@@ -168,7 +168,7 @@ public class MainActivity extends AppCompatActivity implements Responder {
 <img src="screenshots/spm.png" width="480" height="250"/>
 </p>
 
-#### 6.4 Generate the xcode open 
+#### 6.4 Generate the xcode project 
  
 <p align="center">
 <img src="screenshots/xcode_project.png" width="380" height="250"/>
